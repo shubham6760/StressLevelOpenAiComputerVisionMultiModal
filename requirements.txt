@@ -1,0 +1,9 @@
+openai
+streamlit
+streamlit-webrtc
+gtts
+numpy
+opencv-python-headless
+face-recognition
+deepface
+python-dotenv
